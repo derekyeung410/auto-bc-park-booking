@@ -18,7 +18,7 @@ A script for automatic detection and reservation for available campsites on the 
    - `Pin Tampermonkey `
    
 3. Set up for the script:
-   - `Dashboard > Create a new script`
+   - `Open Tampermonkey dashboard > Create a new script`
    - `Copy the script, save and enable it`
 
 4. Browse the BC parks website https://camping.bcparks.ca/
