@@ -1,4 +1,4 @@
-## Auto reservation for BC parks campsite ⛰️
+## Auto Reservation for BC Parks Campsite ⛰️
 
 A script for automatic detection and reservation for available campsites on the BC Parks reservation website once bookings open.
 
