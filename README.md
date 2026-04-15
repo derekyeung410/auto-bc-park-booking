@@ -22,6 +22,6 @@ A script for automatic detection and reservation for available campsites on the 
    - `Copy the script, save and enable it`
 
 4. Browse the BC parks website https://camping.bcparks.ca/
-   - `Search and select for desired date range and campsite details`
+   - `Select and search for desired date range and campsite details`
    - `Open as LIST VIEW`
    
